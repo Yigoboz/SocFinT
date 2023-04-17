@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-git clone https://github.com/yigoboz/socfint.git
+git clone https://github.com/Yigoboz/SocFinT.git
 pip install requests
 pip install colorama
 ```
